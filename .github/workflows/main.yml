@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     
 jobs:
-  letterboxd-scrape:
+  kemenag-scrape:
     runs-on: macOS-latest
     env:
       ATLAS_URL: ${{ secrets.ATLAS_URL }}
@@ -23,5 +23,5 @@ jobs:
         install.packages("tidyverse", dependencies = TRUE)
         install.packages("mongolite")
       shell: Rscript {0} 
-    - name: Scrape Data Letterboxd
+    - name: Scrape Data kemenag
       run: Rscript Rscript Film.R
