@@ -1,4 +1,4 @@
-name: scrape_letterboxd
+name: scrape_kemenag
 
 on:
   schedule:
@@ -24,4 +24,4 @@ jobs:
         install.packages("mongolite")
       shell: Rscript {0} 
     - name: Scrape Data kemenag
-      run: Rscript Rscript Film.R
+      run: Rscript beritakemenag.R
