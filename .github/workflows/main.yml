@@ -24,4 +24,4 @@ jobs:
         install.packages("mongolite")
       shell: Rscript {0} 
     - name: Scrape Data Letterboxd
-      run: Rscript Film.R
+      run: Rscript Rscript Film.R
