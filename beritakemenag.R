@@ -24,7 +24,7 @@ data <- data.frame(
   links = links,
   stringsAsFactors = FALSE
 )
-View(data)
+
 
 # MONGODB
 message('Input Data to MongoDB Atlas')
