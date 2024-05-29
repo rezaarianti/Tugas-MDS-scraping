@@ -24,4 +24,4 @@ jobs:
         install.packages("mongolite")
       shell: Rscript {0} 
     - name: Scrape Data kemenag
-      run: Rscript beritakemenag.R.R
+      run: Rscript scraping kemenag.R
