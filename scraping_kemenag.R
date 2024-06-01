@@ -15,16 +15,13 @@ dates <- page %>% html_nodes(xpath = '//div[@class="entry-meta meta-1 float-left
 links <- page %>% html_nodes(xpath = '//h5[@class="post-title font-weight-900 mb-20"]/a') %>% html_attr("href")
 
 
-
-
 data <- data.frame(
   time_scraped = Sys.time(),
-  titles = titles,
-  dates = dates,
-  links = links,
+  titles = head(titles, 2),
+  dates = head(dates, 2),
+  links = head(links, 2),
   stringsAsFactors = FALSE
 )
-
 
 # MONGODB
 message('Input Data to MongoDB Atlas')
