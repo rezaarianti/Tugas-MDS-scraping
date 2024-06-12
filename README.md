@@ -1,7 +1,7 @@
 <div align="center">
     <h1>BERITA KEMENAG SCRAPING</h1>
     <p>Kemenag.go.id: Berita seputar Kemenag RI</p>
-    <img width="200" height="200" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpdakmi.kemenag.go.id%2F&psig=AOvVaw1Ra5s16dr_Bq1gLZdIppO_&ust=1718271538513000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLjd7r3i1YYDFQAAAAAdAAAAABAE" style="border-radius: 50%; object-fit: cover; object-position: center;">
+    <img width="200" height="200" src="https://pdakmi.kemenag.go.id/assets/images/logo-icon.png" style="border-radius: 50%; object-fit: cover; object-position: center;">
 </div>
 
 </div>
