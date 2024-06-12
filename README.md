@@ -65,3 +65,21 @@ links
 # 📉 Presentation
 Here is the link to the PowerPoint presentation related to the project:
 
+# :astronaut: Pengembang
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/windyayupratiwi"><img src="image/windy ayu pratiwi.jpg" width="115px;" alt=""/><br /><sub><b>Windy Ayu Pratiwi </b></sub></a><br /><a
+<br /><sub><b>G1501231029 </b></sub></a>
+  </tr>
+</table>
+
+# :camera_flash: dokumentation
+<p align="center" width="55%">
+  <img width="160" src="https://cdn.kemenag.go.id/storage/posts/16_9/big/1718181332.jpeg">
+   <img width="160" src="https://cdn.kemenag.go.id/storage/posts/16_9/big/1718029881.jpeg">
+    <img width="160" src="https://cdn.kemenag.go.id/storage/posts/16_9/big/1718008624.jpeg">
+</p>
+
+---------------
+![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
+![forthebadge](https://forthebadge.com/images/badges/made-with-typescript.svg)
