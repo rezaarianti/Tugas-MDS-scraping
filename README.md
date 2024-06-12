@@ -42,4 +42,26 @@ Dive into the latest buzz and trusted insights with Kemenag News! As your go-to 
 
 🎥 **Multimedia Showcase:** Immerse yourself in captivating multimedia content showcasing Indonesia's rich cultural heritage and religious traditions, fostering cross-cultural understanding.
 
+# 📑 Dokument
+Below is an example MongoDB document for "Kemenag News":
+
+```mongodb
+{
+  
+_id
+6656c5a705b4c9c5810bc944
+time_scraped
+2024-05-29T06:05:24.931+00:00
+titles
+"Tiba di Makkah, Jemaah Diimbau Perbanyak Manasik di Hotel dan Batasi Z…"
+dates
+"
+                    Selasa, 28 Mei 2024
+                "
+links
+"/internasional/tiba-di-makkah-jemaah-diimbau-perbanyak-manasik-di-hote…"
+}
+
+# 📉 Presentation
+Here is the link to the PowerPoint presentation related to the project:
 
