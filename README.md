@@ -1,9 +1,7 @@
 <div align="center">
     <h1>BERITA KEMENAG SCRAPING</h1>
     <p>Kemenag.go.id: Berita seputar Kemenag RI</p>
-    <img width="200" height="200" src="https://pdakmi.kemenag.go.id/assets/images/logo-icon.png" style="border-radius: 50%; object-fit: cover; object-position: center;">
-</div>
-
+    <img width="200" height="200" src="https://pdakmi.kemenag.go.id/assets/images/logo-icon.png">
 </div>
  
   # Mining Insights: Extracting Data from KEMENAG RI NEWS
