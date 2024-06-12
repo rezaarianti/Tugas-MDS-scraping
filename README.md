@@ -2,7 +2,7 @@
 <h1>BERITA KEMENAG SCRAPING</h1>
  Kemenag.go.id: Berita seputar Kemenag RI
 <p align="center" width="200%">
-    <img width="75%" src="https://pbs.twimg.com/profile_images/1364379635484528645/wajul_yL_400x400.jpg">
+    <img width="60%" src="https://pbs.twimg.com/profile_images/1364379635484528645/wajul_yL_400x400.jpg">
 </p>
  
   # Mining Insights: Extracting Data from KEMENAG RI NEWS
