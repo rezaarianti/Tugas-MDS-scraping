@@ -1,7 +1,7 @@
 <div align="center">
 <h1>BERITA KEMENAG SCRAPING</h1>
  Kemenag.go.id: Berita seputar Kemenag RI
-<p align="center" width="200%">
+<p align="center" width="100%">
     <img width="60%" src="https://pbs.twimg.com/profile_images/1364379635484528645/wajul_yL_400x400.jpg">
 </p>
  
