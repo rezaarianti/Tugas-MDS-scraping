@@ -1,4 +1,4 @@
-<div align="center">
+w<div align="center">
     <h1>BERITA KEMENAG SCRAPING</h1>
     <p>Kemenag.go.id: Berita seputar Kemenag RI</p>
     <img width="200" height="200" src="https://pdakmi.kemenag.go.id/assets/images/logo-icon.png">
@@ -13,9 +13,9 @@
 
 </p>
 
-[About Us](#newspaper-About-Us)
+[About Us](#map-About-Us)
 •
-[Project Description](#open_book-Project-Description)
+[Project Description](#bookmark_tabs-Project-Description)
 •
 [scraping process](#bar_chart-scraping-process)
 •
