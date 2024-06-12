@@ -64,8 +64,8 @@ Here is the link to the PowerPoint presentation related to the project:
 # 👧 Pengembang
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/rezaarianti"><img src="image/reza cantik nian.jpg" width="115px;" alt=""/><br /><sub><b>Reza Arianti </b></sub></a><br /><a
-<br /><sub><b>G1501231029 </b></sub></a>
+    <td align="center"><a href="https://github.com/rezaarianti"><img src="image/reza cantik nian.jpg" width="130px;" alt=""/><br /><sub><b>Reza Arianti </b></sub></a><br /><a
+<br /><sub><b>G1501231039 </b></sub></a>
   </tr>
 </table>
 
