@@ -10,22 +10,22 @@
 # Tugas-MDS-scraping
 [![scrape_kemenag](https://github.com/rezaarianti/Tugas-MDS-scraping/actions/workflows/main.yml/badge.svg)](https://github.com/rezaarianti/Tugas-MDS-scraping/actions/workflows/main.yml)
 
-## Please select the menu you wish to view :down arrow
+## Please select the menu you wish to view 👇
 
 </p>
 
-[About Us](#newspaper-Tentang Kami)
+[About Us](#newspaper-About-Us)
 •
-[Project Description](#open_book-Project)
+[Project Description](#open_book-Project-Description)
 •
-[Dokuments](#books-Dokument)
+[Dokuments](#books-Dokuments)
 •
-[Visualisasi Data Scraping](#bar_chart-visualisasi-data-scraping)
+[scraping process visualization](#bar_chart-scraping-process-visualization)
 •
-[Presentation](#computer-PPT)
+[Presentation](#computer-Presentation)
 •
-[Developers](#astronaut-Pengembang)
+[Developers](#astronaut-Developers)
 •
-[Dokumentation](#camera_flash-dokumentasi)
+[Project Diary](#camera_flash-Project-Diary)
 
 </div>
