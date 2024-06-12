@@ -54,18 +54,14 @@ time_scraped
 2024-05-29T06:05:24.931+00:00
 titles
 "Tiba di Makkah, Jemaah Diimbau Perbanyak Manasik di Hotel dan Batasi Z…"
-dates
-"
-                    Selasa, 28 Mei 2024
-                "
-links
-"/internasional/tiba-di-makkah-jemaah-diimbau-perbanyak-manasik-di-hote…"
+dates"Selasa, 28 Mei 2024"
+links "/internasional/tiba-di-makkah-jemaah-diimbau-perbanyak-manasik-di-hote…"
 }
-
+```
 # 📉 Presentation
 Here is the link to the PowerPoint presentation related to the project:
 
-# :astronaut: Pengembang
+# 👧 Pengembang
 <table>
   <tr>
     <td align="center"><a href="https://github.com/windyayupratiwi"><img src="image/windy ayu pratiwi.jpg" width="115px;" alt=""/><br /><sub><b>Windy Ayu Pratiwi </b></sub></a><br /><a
@@ -73,7 +69,7 @@ Here is the link to the PowerPoint presentation related to the project:
   </tr>
 </table>
 
-# :camera_flash: dokumentation
+# 🖼️ dokumentation
 <p align="center" width="55%">
   <img width="160" src="https://cdn.kemenag.go.id/storage/posts/16_9/big/1718181332.jpeg">
    <img width="160" src="https://cdn.kemenag.go.id/storage/posts/16_9/big/1718029881.jpeg">
