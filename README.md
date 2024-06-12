@@ -5,7 +5,7 @@
     <img width="75%" src="https://kemenag.go.id/assets/imgs/theme/logo.png">
 </p>
  
-  # Mining Insights: Extracting Data from BERITA KEMENAG RI
+  # Mining Insights: Extracting Data from KEMENAG RI NEWS
   
 # Tugas-MDS-scraping
 [![scrape_kemenag](https://github.com/rezaarianti/Tugas-MDS-scraping/actions/workflows/main.yml/badge.svg)](https://github.com/rezaarianti/Tugas-MDS-scraping/actions/workflows/main.yml)
@@ -29,3 +29,7 @@
 [Project Diary](#camera_flash-Project-Diary)
 
 </div>
+
+# 🗺️ About Us
+
+Dive into the latest buzz and trusted insights with Kemenag News! As your go-to source for all things news, Kemenag News rocks the scene as Indonesia's ultimate news hub. We're all about top-notch journalism, serving up a smorgasbord of stories, analyses, and features to keep you in the know and ahead of the game. Get ready to ride the waves of knowledge with Kemenag News—where every scroll leads to a world of enlightenment and cool vibes!
