@@ -25,7 +25,7 @@
 •
 [Developers](#astronaut-Developers)
 •
-[Project Diary](#camera_flash-Project-Diary)
+[News Diary](#camera_flash-News-Diary)
 
 </div>
 
@@ -61,7 +61,7 @@ links "/internasional/tiba-di-makkah-jemaah-diimbau-perbanyak-manasik-di-hote…
 # 📉 Presentation
 Here is the link to the PowerPoint presentation related to the project:
 
-# 👧 Pengembang
+# 👧 Developer
 <table>
   <tr>
     <td align="center"><a href="https://github.com/rezaarianti"><img src="image/reza cantik nian.jpg" width="130px;" alt=""/><br /><sub><b>Reza Arianti </b></sub></a><br /><a
@@ -69,13 +69,9 @@ Here is the link to the PowerPoint presentation related to the project:
   </tr>
 </table>
 
-# 🖼️ dokumentation
-<p align="center" width="55%">
+# 🖼️ News Diary
+<p align="center" width="75%">
   <img width="160" src="https://cdn.kemenag.go.id/storage/posts/16_9/big/1718181332.jpeg">
    <img width="160" src="https://cdn.kemenag.go.id/storage/posts/16_9/big/1718029881.jpeg">
-    <img width="160" src="https://cdn.kemenag.go.id/storage/posts/16_9/big/1718008624.jpeg">
+    <img width="100" src="https://cdn.kemenag.go.id/storage/posts/16_9/big/1718008624.jpeg">
 </p>
-
----------------
-![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
-![forthebadge](https://forthebadge.com/images/badges/made-with-typescript.svg)
