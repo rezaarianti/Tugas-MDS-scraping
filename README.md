@@ -17,9 +17,7 @@
 •
 [Project Description](#open_book-Project-Description)
 •
-[Dokuments](#books-Dokuments)
-•
-[scraping process visualization](#bar_chart-scraping-process-visualization)
+[scraping process](#bar_chart-scraping-process)
 •
 [Presentation](#computer-Presentation)
 •
@@ -42,7 +40,7 @@ Dive into the latest buzz and trusted insights with Kemenag News! As your go-to 
 
 🎥 **Multimedia Showcase:** Immerse yourself in captivating multimedia content showcasing Indonesia's rich cultural heritage and religious traditions, fostering cross-cultural understanding.
 
-# 📑 Dokument
+# 📑 Scraping Process
 Below is an example MongoDB document for "Kemenag News":
 
 ```mongodb
