@@ -9,23 +9,7 @@ w<div align="center">
 # Tugas-MDS-scraping
 [![scrape_kemenag](https://github.com/rezaarianti/Tugas-MDS-scraping/actions/workflows/main.yml/badge.svg)](https://github.com/rezaarianti/Tugas-MDS-scraping/actions/workflows/main.yml)
 
-## Please select the menu you wish to view 👇
-
-</p>
-
-[About Us](#map-About-Us)
-•
-[Project Description](#bookmark_tabs-Project-Description)
-•
-[scraping process](#bar_chart-scraping-process)
-•
-[Presentation](#computer-Presentation)
-•
-[Developers](#astronaut-Developers)
-•
-[News Diary](#camera_flash-News-Diary)
-
-</div>
+## Please scroll up the list you wish to view 👇
 
 # :word: About Us
 
@@ -58,6 +42,7 @@ links "/internasional/tiba-di-makkah-jemaah-diimbau-perbanyak-manasik-di-hote…
 ```
 # 📉 Presentation
 Here is the link to the PowerPoint presentation related to the project:
+https://drive.google.com/file/d/1-9_MzYyU17HdzHPFTXV9DBFXgEqQfwMl/view?usp=drive_link
 
 # 👧 Developer
 <table>
