@@ -42,7 +42,7 @@ links "/internasional/tiba-di-makkah-jemaah-diimbau-perbanyak-manasik-di-hote…
 ```
 # 📉 Presentation
 Here is the link to the PowerPoint presentation related to the project:
-PPT SCRAPING MDS PRAKTIKUM.pdf
+[PPT SCRAPING MDS PRAKTIKUM.pdf](https://github.com/rezaarianti/Tugas-MDS-scraping/blob/main/PPT%20SCRAPING%20MDS%20PRAKTIKUM.pdf)
 
 # 👧 Developer
 <table>
