@@ -1,4 +1,4 @@
-w<div align="center">
+<div align="center">
     <h1>BERITA KEMENAG SCRAPING</h1>
     <p>Kemenag.go.id: Berita seputar Kemenag RI</p>
     <img width="200" height="200" src="https://pdakmi.kemenag.go.id/assets/images/logo-icon.png">
@@ -42,7 +42,7 @@ links "/internasional/tiba-di-makkah-jemaah-diimbau-perbanyak-manasik-di-hote…
 ```
 # 📉 Presentation
 Here is the link to the PowerPoint presentation related to the project:
-https://drive.google.com/file/d/1-9_MzYyU17HdzHPFTXV9DBFXgEqQfwMl/view?usp=drive_link
+PPT SCRAPING MDS PRAKTIKUM.pdf
 
 # 👧 Developer
 <table>
