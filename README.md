@@ -52,6 +52,10 @@ https://drive.google.com/file/d/1-9_MzYyU17HdzHPFTXV9DBFXgEqQfwMl/view?usp=drive
   </tr>
 </table>
 
+# 💻 RPubs (Syntax for Visualization)
+Here is the link to the Rpubs for the project's visualization:
+https://rpubs.com/Reza_Arianti/Visualisasi_data_Sraping_Berita_Kemenag
+
 # 🖼️ News Diary
 <p align="center" width="75%">
   <img width="160" src="https://cdn.kemenag.go.id/storage/posts/16_9/big/1718181332.jpeg">
